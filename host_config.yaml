@@ -1,0 +1,8 @@
+dev:
+    host: "w.x.y.z"
+    key_file: "~/.ssh/key_file.pem"
+    user: "ec2-user"
+prod:
+    host: "w1.x1.y1.z1"
+    key_file: "~/.ssh/key_file1.pem"
+    user: "ubuntu"
